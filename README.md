@@ -5,4 +5,6 @@ Repository for alignments, trees and BEAST 1.10 XML files associated with metage
 
 Files with the '2019-19' tag correspond to the first batch of 19 sequences being released, with the analyses shown in the following virological post: [http://virological.org/t/2019-lassa-virus-sequencing-in-nigeria/287](http://virological.org/t/2019-lassa-virus-sequencing-in-nigeria/287).
 
-Files with the '2019-32' and '2019-42' tags correspond to the second batch of 32 sequences being released. Note that for 10 of these, only the S segment is available, hence the difference in file names.
+Files with the '2019-32' and '2019-42' tags correspond to the second batch of 32 additional sequences being released. Note that for 10 of these, only the S segment is available, hence the difference in file names.
+
+Files with the '2019-63' and '2019-75' tags correspond to the third batch of 33 additional sequences being released. This brings the total to 63 L segment sequences and 75 S segment sequences, hence the difference in file names.
